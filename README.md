@@ -1,4 +1,4 @@
-<p align="center"><img src="/Task Home Page.PNG" width="400"><br> <b>HomePage</b></p>
+<p align="center"><img src="/Task Home Page.png" width="400"><br> <b>HomePage</b></p>
 
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
